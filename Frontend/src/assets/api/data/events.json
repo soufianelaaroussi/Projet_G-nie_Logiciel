@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "assets/upload/1.jpg",
+    "title": "فؤاد العروي",
+    "description": "من المحلية إلى العالمية"
+  },
+  {
+    "id": "2",
+    "image": "assets/upload/2.jpg",
+    "title": "الترجمة والتحليل النصي",
+    "description": "س/ز لرلان بارت نموذجا"
+  },
+  {
+    "id": "3",
+    "image": "assets/upload/3.jpg",
+    "title": "معجم الأديان",
+    "description": "لمير سيما الياد"
+  },
+  {
+    "id": "4",
+    "image": "assets/upload/4.jpg",
+    "title": "غيمة تمنعني من الرقص",
+    "description": "للشاعرة مينة الأزهر"
+  },
+  {
+    "id": "5",
+    "image": "assets/upload/5.jpg",
+    "title": "مسارات الشعر المغربي المعاصر",
+    "description": "للشاعر ذ. رضوان خديد"
+  },
+  {
+    "id": "6",
+    "image": "assets/upload/6.jpg",
+    "title": "علاقات ملتبسة",
+    "description": "جلسة حوار"
+  }
+]

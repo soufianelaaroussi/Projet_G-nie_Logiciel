@@ -1,0 +1,26 @@
+[
+  {
+    "id": "soutien-de-programmes-culturels",
+    "image": "assets/upload/002.jpg",
+    "title": "PROGRAMMES CULTURELS",
+    "description": "La Fondation Abdelouahed EL KADIRI a tissé au fil des années des liens particuliers avec plusieurs institutions culturelles nationales et internationales telles que l’Union des Ecrivains du Maroc, la Faculté des Lettres et des Sciences Humaines d’El Jadida et L’Université Chouaib Doukkali. Des conférences, tables rondes, festivals et séminaires sont organisés chaque année au sein de la Bibliothèque de la Fondation ou à l’université."
+  },
+  {
+    "id": "soutien-de-programmes-educatifs",
+    "image": "assets/upload/009.jpg",
+    "title": "CYCLES DE FORMATION",
+    "description": "Dans le cadre de son soutien pour la formation au Maroc et plus particulièrement dans le domaine de l‘éducation, la Fondation Abdelouahed EL KADIRI a préféré organisé dans ces locaux 10 cycles de formations accélérées en langues aux élèves de la région. 100 élèves sont concernés chaque année."
+  },
+  {
+    "id": "soutien-scolaire",
+    "image": "assets/upload/010.jpg",
+    "title": "SOUTIEN SOCIAL",
+    "description": "En ce qui concerne le premier axe, la Fondation Abdelouahed El Kadiri a concentré ses efforts ces dernières années sur un programme audacieux de distribution des chaises roulantes en étroite collaboration avec les autorités hospitalières de la ville d'El Jadida. La Fondation a également ouvré à mettre en place un programme d'octroi de bourses d'études à des adolescents méritants vivant dans le milieu rural et désireux de continuer leurs études secondaires ou universitaires à El Jadida. La Fondation a enfin, au fil des années, tissé des liens particuliers avec plusieurs institutions culturelles nationales et internationales telles que l'Union des Ecrivains du Maroc, la Faculté des Lettres et des Sciences Humaines d'El Jadida et l'Agence Bayt Mal Al Qods pour l'organisation de séminaires, conférences et tables rondes dans les domaines d'éducation et de la culture."
+  },
+  {
+    "id": "promotion-du-sport",
+    "image": "assets/upload/011.jpg",
+    "title": "TOURNOI DE BASKET",
+    "description": "La Fondation Abdelouahed EL KADIRI subventionne depuis 14 ans le Club Olympic d’El Jadida (COJ) de Basketball pour promouvoir et développer, dans la province d’El Jadida, le sport en général et le basketball en particulier. Ce partenariat fut couronné par l’organisation d’un tournoi de basketball en septembre 2018."
+  }
+]
